@@ -1,0 +1,162 @@
+[
+  {
+    "metadata": {
+      "id": "99e3906b-d232-48f2-902a-fcba762add97",
+      "publisherId": "dan-c-underwood.arm",
+      "publisherDisplayName": "dan-c-underwood"
+    },
+    "name": "arm",
+    "publisher": "dan-c-underwood",
+    "version": "0.5.0"
+  },
+  {
+    "metadata": {
+      "id": "f583eafd-aa0d-4ccb-8f44-d1e610389660",
+      "publisherId": "CoenraadS.bracket-pair-colorizer",
+      "publisherDisplayName": "CoenraadS"
+    },
+    "name": "bracket-pair-colorizer",
+    "publisher": "CoenraadS",
+    "version": "1.0.61"
+  },
+  {
+    "metadata": {
+      "id": "e337c67b-55c2-4fef-8949-eb260e7fb7fd",
+      "publisherId": "Shan.code-settings-sync",
+      "publisherDisplayName": "Shan"
+    },
+    "name": "code-settings-sync",
+    "publisher": "Shan",
+    "version": "3.4.2"
+  },
+  {
+    "metadata": {
+      "id": "63c2dc61-783f-4cbc-9fb8-0c75aeb0527c",
+      "publisherId": "ZixuanWang.linkerscript",
+      "publisherDisplayName": "ZixuanWang"
+    },
+    "name": "linkerscript",
+    "publisher": "ZixuanWang",
+    "version": "1.0.0"
+  },
+  {
+    "metadata": {
+      "id": "5db78037-f674-459f-a236-db622c427c5b",
+      "publisherId": "PKief.material-icon-theme",
+      "publisherDisplayName": "PKief"
+    },
+    "name": "material-icon-theme",
+    "publisher": "PKief",
+    "version": "3.9.0"
+  },
+  {
+    "metadata": {
+      "id": "a689fad8-50ed-4a7a-88fd-8ca2836c545f",
+      "publisherId": "zoxon.monokai-light",
+      "publisherDisplayName": "zoxon"
+    },
+    "name": "monokai-light",
+    "publisher": "zoxon",
+    "version": "0.1.2"
+  },
+  {
+    "metadata": {
+      "id": "93ce222b-5f6f-49b7-9ab1-a0463c6238df",
+      "publisherId": "ms-vscode-remote.remote-containers",
+      "publisherDisplayName": "ms-vscode-remote"
+    },
+    "name": "remote-containers",
+    "publisher": "ms-vscode-remote",
+    "version": "0.75.0"
+  },
+  {
+    "metadata": {
+      "id": "607fd052-be03-4363-b657-2bd62b83d28a",
+      "publisherId": "ms-vscode-remote.remote-ssh",
+      "publisherDisplayName": "ms-vscode-remote"
+    },
+    "name": "remote-ssh",
+    "publisher": "ms-vscode-remote",
+    "version": "0.46.0"
+  },
+  {
+    "metadata": {
+      "id": "bfeaf631-bcff-4908-93ed-fda4ef9a0c5c",
+      "publisherId": "ms-vscode-remote.remote-ssh-edit",
+      "publisherDisplayName": "ms-vscode-remote"
+    },
+    "name": "remote-ssh-edit",
+    "publisher": "ms-vscode-remote",
+    "version": "0.46.0"
+  },
+  {
+    "metadata": {
+      "id": "5d9b66c1-7da3-4004-8c92-2b0852ec0c9b",
+      "publisherId": "ms-vscode-remote.remote-ssh-explorer",
+      "publisherDisplayName": "ms-vscode-remote"
+    },
+    "name": "remote-ssh-explorer",
+    "publisher": "ms-vscode-remote",
+    "version": "0.46.0"
+  },
+  {
+    "metadata": {
+      "id": "f0c5397b-d357-4197-99f0-cb4202f22818",
+      "publisherId": "ms-vscode-remote.remote-wsl",
+      "publisherDisplayName": "ms-vscode-remote"
+    },
+    "name": "remote-wsl",
+    "publisher": "ms-vscode-remote",
+    "version": "0.39.5"
+  },
+  {
+    "metadata": {
+      "id": "529697b9-b343-4b1c-ba2f-f5ef692132d4",
+      "publisherId": "ms-vscode.sublime-keybindings",
+      "publisherDisplayName": "ms-vscode"
+    },
+    "name": "sublime-keybindings",
+    "publisher": "ms-vscode",
+    "version": "4.0.3"
+  },
+  {
+    "metadata": {
+      "id": "e96f7482-8e97-4155-8a7c-ad5fab4d8b2d",
+      "publisherId": "jprestidge.theme-material-theme",
+      "publisherDisplayName": "jprestidge"
+    },
+    "name": "theme-material-theme",
+    "publisher": "jprestidge",
+    "version": "1.0.1"
+  },
+  {
+    "metadata": {
+      "id": "15de929b-c739-49db-86bc-b968cc6b7a5b",
+      "publisherId": "AdamCaviness.theme-monokai-dark-soda",
+      "publisherDisplayName": "AdamCaviness"
+    },
+    "name": "theme-monokai-dark-soda",
+    "publisher": "AdamCaviness",
+    "version": "0.0.5"
+  },
+  {
+    "metadata": {
+      "id": "dffaf5a1-2219-434b-9d87-cb586fd59260",
+      "publisherId": "Equinusocio.vsc-material-theme",
+      "publisherDisplayName": "Equinusocio"
+    },
+    "name": "vsc-material-theme",
+    "publisher": "Equinusocio",
+    "version": "30.0.0"
+  },
+  {
+    "metadata": {
+      "id": "23d72dfc-8dd1-4e30-926e-8783b4378f13",
+      "publisherId": "ms-vscode-remote.vscode-remote-extensionpack",
+      "publisherDisplayName": "ms-vscode-remote"
+    },
+    "name": "vscode-remote-extensionpack",
+    "publisher": "ms-vscode-remote",
+    "version": "0.17.0"
+  }
+]
